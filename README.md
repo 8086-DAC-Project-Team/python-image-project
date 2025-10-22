@@ -81,3 +81,25 @@ The original and thresholded versions of a handwritten digit "3". Thresholding f
 Applying the Thresholding filter successfully simplified the input images while preserving essential classification features.  
 As a result, the CNN model achieved high accuracy, demonstrating the effectiveness of preprocessing (thresholding) in digit classification tasks.
 
+## 7. Project Files
+- img.py: Load and display images.
+- minst.py: Example for handling and classifying digit datasets.
+- save_images.py: Save processed images to disk.
+- python.image1.pdf: Sample exported PDF for results.
+
+## 8. How to Run
+1. Ensure Python is installed.
+2. Install the required libraries:
+pip install matplotlib numpy pillow
+3. Run any of the scripts as needed:
+python img.py
+
+## 🧑‍💻 Author
+
+- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
+- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
+- **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
+
+---
+
+⭐ *If you like this project, don't forget to star the reposit
