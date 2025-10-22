@@ -42,16 +42,19 @@ We applied a Thresholding filter at value 100 to convert grayscale images to bin
 - Training Accuracy: **~99.8%**
 - Validation Accuracy: **~98.86%**
 
+<img width="885" height="1030" alt="image" src="https://github.com/user-attachments/assets/7eb04427-1e64-4867-8d84-95859d819c99" />
+
 ---
 
 ## 5. Visualizations
 
 ### Model Performance
 
-Training and validation accuracy and loss curves across 10 epochs.  
-The model converges rapidly with minimal overfitting.
+Training and validation accuracy and loss curves across 10 epochs. The model shows rapid convergence with minimal overfitting, achieving high accuracy (~99.7% training and ~98.9% validation), indicating successful learning
 
-<img width="885" height="1030" alt="image" src="https://github.com/user-attachments/assets/d74f4698-0b82-4341-82da-eb2e2c32f777" />
+<img width="1600" height="857" alt="image" src="https://github.com/user-attachments/assets/e2d5f14e-d4e6-4367-b003-df745d81855d" />
+<img width="1044" height="1030" alt="image" src="https://github.com/user-attachments/assets/390ff378-600f-405f-93b5-4939c0edc166" />
+
 
 ---
 
@@ -59,16 +62,17 @@ The model converges rapidly with minimal overfitting.
 
 A grid of 25 sample images from MNIST, showing handwritten digits (0–9) with their labels to visualize and verify dataset correctness.
 
-![MNIST Grid](attached_image:5)
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/fb807161-0965-4d2c-8061-809bbe2c92f3" />
+<img width="819" height="1030" alt="image" src="https://github.com/user-attachments/assets/11b8d4f2-4c8b-4f04-9110-03c46ecac3df" />
+
 
 ---
 
 ### Thresholding Example
 
-Original and thresholded versions of a handwritten "3".
-Thresholding enhances contrast, converting the image into binary for feature extraction.
+The original and thresholded versions of a handwritten digit "3". Thresholding filter was applied to enhance the contrast and simplify the image, converting it into a binary format (black and white) for better feature extraction.
 
-![Thresholding Example](attached_image:4)
+<img width="1600" height="860" alt="image" src="https://github.com/user-attachments/assets/d96aef13-e1b5-44ef-9249-f3389185e269" />
 
 ---
 
