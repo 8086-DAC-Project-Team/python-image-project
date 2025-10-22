@@ -51,7 +51,7 @@ We applied a Thresholding filter at value 100 to convert grayscale images to bin
 Training and validation accuracy and loss curves across 10 epochs.  
 The model converges rapidly with minimal overfitting.
 
-![Accuracy and Loss Curves](attached_image:3)
+<img width="885" height="1030" alt="image" src="https://github.com/user-attachments/assets/d74f4698-0b82-4341-82da-eb2e2c32f777" />
 
 ---
 
