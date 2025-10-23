@@ -14,7 +14,7 @@ We applied a Thresholding filter at value 100 to convert grayscale images to bin
 
 **Purpose:**
 - Highlight digit structure
-- Simplify image features for easier classification by the CNN model
+- Simplify image features for easier classification by the CNN model.
 
 ---
 
