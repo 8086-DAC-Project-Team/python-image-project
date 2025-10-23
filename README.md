@@ -96,10 +96,6 @@ python img.py
 
 ## 🧑‍💻 Author
 
-- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
-- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)  
 - **Rodina Ahmed** → [GitHub Profile](https://github.com/RodinaAhmed)
-
----
-
-⭐ *If you like this project, don't forget to star the reposit
+- **Farida Ayman** → [GitHub Profile](https://github.com/FaridaAyman)
+- **Nada Attia** → [GitHub Profile](https://github.com/NadaAttia04)  
